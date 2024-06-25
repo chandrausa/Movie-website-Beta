@@ -1,0 +1,32 @@
+.box{
+    padding-left: -200px;
+    border-radius: 5px;
+    border: 2px solid rgba(58, 47, 47, 0.997);
+    
+    
+    display: inline-block;
+    position: relative;
+    
+}
+#submit{
+    margin-left: 600px;
+    border-radius: 5px;
+    border: 2px solid rgba(152, 24, 24, 0.997);
+    cursor: pointer;
+    position: fixed;
+}
+.forum{
+    padding-top: 90px;
+    color: rgb(255,255,255);
+}
+body{
+    background-color: #1a1a1a;
+}
+body{
+    background-image: url(https://digwallpapers.com/wallpapers/middle-retina/2/e/c/27031-1920x1080-star-wars-movie-poster-background-image-desktop-hd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode:soft-light;
+}
+
